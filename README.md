@@ -1,1 +1,2 @@
-# pro26
+ the recipe to make prawn malai curry is given in the recipe file and the ingregients required are written in the ingredients file
+ Chingri malai curry also known as prawn malai curry, is a Bengali curry made from Tiger and King prawns and coconut milk and flavoured with spices. The dish is popular throughout Bengal and is served during weddings and celebrations, or for guests, and was also very popular among the British in Calcutta. 
